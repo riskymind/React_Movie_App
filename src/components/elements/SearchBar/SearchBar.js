@@ -20,7 +20,7 @@ class SearchBar extends Component {
 
   render() {
     return (
-      <div className="rndb-searchbar">
+      <div className="rmdb-searchbar">
         <div className="rmdb-searchbar-content">
           <FontAwesome className="rmdb-fa-search" name="search" size="2x" />
           <input
